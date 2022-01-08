@@ -13,7 +13,7 @@ const Hero = () => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        <b>Hello Everyone, I am Gourab Choudhuri</b><br/>passionate about technology. 
+        Hello Everyone, I am Gourab Choudhuri and I am passionate about technology. 
         Trying out new technologies is my hobby. 
         The purpose of this website is to tell about myself and to show the work I have done. 
         I have spent my time while completing my degree learning new technologies.
