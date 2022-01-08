@@ -47,8 +47,8 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
       I started with learning C programming. Later I started developing more interest in the field of software development and coding.<br/>
-      Learning something new everyday is my hobby and coding is my passion. With my deep interest in Computer Science, I want to pursue my carrier
-      in the field of Software Engineering.<br/>I can code in C, C++, Java, Python and JavaScript.<br/>
+      Learning something new everyday is my hobby and coding is my passion. With my deep interest in Computer Science, 
+      I want to pursue my carrier in the field of Software Engineering.<br/>I can code in C, C++, Java, Python and JavaScript.<br/>
       I use MERN stack for web development. Alongside I do Android Development using Java.<br/>
       I can work proficiently with Windows as well as Linux GUI/Bash.<br/>
       I am learning Data Structures and Algorithms with C++ and Java.<br/>
