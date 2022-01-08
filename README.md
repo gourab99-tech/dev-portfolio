@@ -1,12 +1,29 @@
-## Personal Portfolio
+# Web Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+Live Site: https://gourabchoudhuri.netlify.app
+<br /><br />
+<p align="center">
+<img src="./readme_images/b.png">
+</p>
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+## About this project
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
+This project is build to demonstrate my skills in a single page.\
+In this page I have mentioned all my `projects` along with the `technologies` I have learned and worked with. 
 
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
+<p align="center">
+<img src="./readme_images/d.png">
+</p>
 
-Setup:
-- run ```npm i && npm start```
+In the `About` section I have shared my journey of learning programming along with the time stamps. 
+
+<p align="center">
+<img src="./readme_images/a.png">
+</p>
+
+This project is build using `React.js` along with `Next.js` and to make the UI look better I have used `styled-components` and `styled-normalize`. 
+
+<p align="center">
+<img src="./readme_images/c.png">
+</p>
+
