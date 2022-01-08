@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Exerzo',
-    description: "Using React, Node.js, Express & MongoDB, build a Full Stack MERN Application - from start to finish. The App is called Exerzo and it is a webapp which is used to assign an exercise to a user alongwith the duration. This application focuses on tracking exercise of the user.",
+    description: "Using React, Node.js, Express & MongoDB, built a Full Stack MERN Application - from start to finish. The App is called Exerzo and it is a webapp which is used to assign an exercise to a user alongwith the duration. This application focuses on tracking exercise of the user.",
     image: 'images/c.png',
     tags: ['Mongo', 'Express', 'React', 'Node'],
     visit: ' https://github.com/gourab99-tech/exerzo.git',
@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: 'FetchCrypto',
-    description:"This is a realtime cryto currency application. Through this we can get the realtime data of what's happning in the crypto world. Along with the price and market share of each coin, this app will aslo provide latest crypto new. Overall this is all one need to keep an eye on the crypto world.",
+    description:"This is a realtime cryto currency application. Through this we can get the realtime data of what's happning in the crypto world. Along with the price and market share of each coin, this app will aslo provide latest crypto news. Overall this is all one need to keep an eye on the crypto world.",
     image: '/images/a.png',
     tags: ['React', 'Redux Toolkit'],
     source: 'https://fetch-your-crypto.netlify.app',
@@ -40,5 +40,5 @@ export const TimeLineData = [
   { year: 2019, text: 'Started my journey with C programming, HTML and CSS', },
   { year: 2020, text: 'Got familiar with Data Structures and Algorithms, JavaScript and PHP', },
   { year: 2021, text: 'Learned Java, Python, MySQL, Web Development and Android Development', },
-  { year: 2022, text: 'Learned Node.js, Express.js and started making projects', },
+  { year: 2022, text: 'Learned Node.js, Express.js, Next.js, Firebase, Tailwind CSS and MongoDB', },
 ];
