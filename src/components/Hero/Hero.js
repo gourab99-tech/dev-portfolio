@@ -13,11 +13,15 @@ const Hero = () => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        The purpose of this website is to tell about myself and to show the work I have done. I have spend my time while completing my 
-        degree in learning new technologies. Every new tech aspires me to learn more and mpre about them. 
+        <b>Hello Everyone, I am Gourab Choudhuri</b><br/>passionate about technology. 
+        Trying out new technologies is my hobby. 
+        The purpose of this website is to tell about myself and to show the work I have done. 
+        I have spent my time while completing my degree learning new technologies.
+        Every new tech aspires me to learn more and more about them. 
         </SectionText>
-        <Button onClick={() => {window.open("https://drive.google.com/file/d/1AgSB6vovnKW0VKYG92Q4SBJdAWS_EGhB/view?usp=sharing")}}>Resume</Button>
-        {/* Here I will put my resume link which will be uploaded to drive */}
+        <Button onClick={() => {
+          window.open("https://drive.google.com/file/d/1AgSB6vovnKW0VKYG92Q4SBJdAWS_EGhB/view?usp=sharing")
+          }}>Resume</Button>
       </LeftSection>
     </Section>
   </>
