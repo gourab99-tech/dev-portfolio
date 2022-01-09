@@ -20,7 +20,7 @@ const Hero = () => (
         Every new tech aspires me to learn more and more about them. 
         </SectionText>
         <Button onClick={() => {
-          window.open("https://drive.google.com/file/d/1AgSB6vovnKW0VKYG92Q4SBJdAWS_EGhB/view?usp=sharing")
+          window.open("https://drive.google.com/file/d/1L6mkKc5bhi73RD3XZDRbtdZbhdf8OyCb/view?usp=sharing")
           }}>Resume</Button>
       </LeftSection>
     </Section>
